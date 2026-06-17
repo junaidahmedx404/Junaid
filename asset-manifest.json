@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/My-Portfolio/static/css/main.72bf3c29.css",
-    "main.js": "/My-Portfolio/static/js/main.5a389e4b.js",
-    "static/js/453.fd2f0c4a.chunk.js": "/My-Portfolio/static/js/453.fd2f0c4a.chunk.js",
-    "static/media/Profile.jpeg": "/My-Portfolio/static/media/Profile.16e60a6d980d2216d7eb.jpeg",
-    "index.html": "/My-Portfolio/index.html",
-    "main.72bf3c29.css.map": "/My-Portfolio/static/css/main.72bf3c29.css.map",
-    "main.5a389e4b.js.map": "/My-Portfolio/static/js/main.5a389e4b.js.map",
-    "453.fd2f0c4a.chunk.js.map": "/My-Portfolio/static/js/453.fd2f0c4a.chunk.js.map"
+    "main.css": "/portfolio/static/css/main.d35d5c46.css",
+    "main.js": "/portfolio/static/js/main.0e6d316b.js",
+    "static/js/453.fd2f0c4a.chunk.js": "/portfolio/static/js/453.fd2f0c4a.chunk.js",
+    "static/media/Profile.jpeg": "/portfolio/static/media/Profile.00cb9bc1ea0f6d048a84.jpeg",
+    "static/media/Junaid_Ahmed_BBA.pdf": "/portfolio/static/media/Junaid_Ahmed_BBA.190e74ef53050e9e899a.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.d35d5c46.css.map": "/portfolio/static/css/main.d35d5c46.css.map",
+    "main.0e6d316b.js.map": "/portfolio/static/js/main.0e6d316b.js.map",
+    "453.fd2f0c4a.chunk.js.map": "/portfolio/static/js/453.fd2f0c4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72bf3c29.css",
-    "static/js/main.5a389e4b.js"
+    "static/css/main.d35d5c46.css",
+    "static/js/main.0e6d316b.js"
   ]
 }
